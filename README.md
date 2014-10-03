@@ -3,6 +3,7 @@ Dimage
 a MFC app for manipulating BMP images
 
 includes:
+
 1, picture metric transformation including shift,resize,rotate,shear,twist
 
 2, bit operation such as gray histogram,gray transformation etc.
